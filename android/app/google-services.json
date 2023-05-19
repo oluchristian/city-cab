@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909496474570",
+    "project_id": "city-cab-2649c",
+    "storage_bucket": "city-cab-2649c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909496474570:android:c308069a18d13a29654d33",
+        "android_client_info": {
+          "package_name": "com.flutterdev.citycab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909496474570-d2gblqu3qn2uq955crkmjci9l0cjcefo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi_aUj8pfyHLFkyuUaD26zgUS9lskcGEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909496474570-d2gblqu3qn2uq955crkmjci9l0cjcefo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
